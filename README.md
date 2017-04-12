@@ -14,3 +14,5 @@ Transitions and Animations <br/>
 
 Download files<br/>
 Run HTML-file in your browser<br/>
+<a href=""><img src="https://github.com/akas227/Cycle-Animation/blob/master/animation.PNG" alt="animation" />
+</a>
