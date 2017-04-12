@@ -14,5 +14,3 @@ Transitions and Animations <br/>
 
 Download files<br/>
 Run HTML-file in your browser<br/>
-Push button "HTML" under the effect you want to use. Add this code to your page (with all custom classes, it's important).<br/>
-Push button "CSS" under the effect you want to use. Add this code to your CSS file.
